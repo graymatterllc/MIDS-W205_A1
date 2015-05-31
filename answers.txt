@@ -1,0 +1,9 @@
+# James Gray | jamesgray@ischool.berkeley.edu 
+# Berkeley Data Science W205
+# Assignment #1 | June 1, 2015
+
+Question #3: The local process completed in 137 seconds.  The EMR process completed in 259 seconds.
+
+Question #4: There are 2042 "address" tags in the input.  
+
+Question #5: The local and EMR processes both produced the same 2042 address tags.
